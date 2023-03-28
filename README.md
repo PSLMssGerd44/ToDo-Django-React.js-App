@@ -1,6 +1,6 @@
 # ToDo-Django-React.js-App
 
-### Initial challenge and requirements> ###
+### Initial challenge and requirements: ###
 - A Full-stack todo app must be developed using Django and React. In this web application the user must be able to manage, view, and edit their commits or tasks.
 - The app must be user-firendly and efficient.
 - The app must compile with the highest code quality in the industry.
